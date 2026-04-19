@@ -18,7 +18,7 @@
 ## 🛠️ 技术栈
 
 - HelloAgents框架
-- 使用的智能体范式（如ReAct、Plan-and-Solve等）
+- 使用ReAct范式
 - 使用的工具和API
 - 其他依赖库
 
@@ -96,8 +96,8 @@ MIT License
 
 ## 👤 作者
 
-- GitHub: [@你的用户名](https://github.com/你的用户名)
-- Email: 你的邮箱（可选）
+- GitHub: [@qiqiqiyi](https://github.com/qiqiqiyi)
+- Email: 18262768565@163.com
 
 ## 🙏 致谢
 
