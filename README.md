@@ -54,18 +54,9 @@ jupyter lab
 # 打开main.ipynb并运行
 ```
 
-## 📖 使用示例
+## 📖 运行截图
 
-展示如何使用你的项目，最好包含代码示例和运行结果。
-
-```python
-# 示例代码
-from hello_agents import SimpleAgent
-
-agent = SimpleAgent(name="示例智能体")
-result = agent.run("你的输入")
-print(result)
-```
+![alt text](image.png)
 
 
 ## 🔮 未来计划
