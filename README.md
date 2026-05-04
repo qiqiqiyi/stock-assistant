@@ -15,12 +15,12 @@
 
 
 
-## 🛠️ 技术栈
+<!-- ## 🛠️ 技术栈
 
 - HelloAgents框架
 - Redis
 - 使用ReAct范式
-- 使用的工具和API
+- 使用的工具和API -->
 
 <!-- ## 🚀 快速开始
 
@@ -45,14 +45,6 @@ cp .env.example .env
 # OPENAI_API_KEY=your_key_here
 ```
 
-### 运行项目
-
-```bash
-# 启动Jupyter Notebook
-jupyter lab
-
-# 打开main.ipynb并运行
-```
 
 ## 📖 运行截图
 
@@ -63,7 +55,7 @@ jupyter lab
 
 - [ ] 待实现的功能1
 - [ ] 待实现的功能2
-- [ ] 待优化的部分
+- [ ] Redis实现长期记忆
 
 ## 🤝 贡献指南
 
